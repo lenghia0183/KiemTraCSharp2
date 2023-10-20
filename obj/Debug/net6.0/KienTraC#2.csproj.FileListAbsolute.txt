@@ -1,0 +1,14 @@
+D:\source\repos\KienTraC#2\bin\Debug\net6.0\KienTraC#2.exe
+D:\source\repos\KienTraC#2\bin\Debug\net6.0\KienTraC#2.deps.json
+D:\source\repos\KienTraC#2\bin\Debug\net6.0\KienTraC#2.runtimeconfig.json
+D:\source\repos\KienTraC#2\bin\Debug\net6.0\KienTraC#2.dll
+D:\source\repos\KienTraC#2\bin\Debug\net6.0\KienTraC#2.pdb
+D:\source\repos\KienTraC#2\obj\Debug\net6.0\KienTraC#2.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\KienTraC#2\obj\Debug\net6.0\KienTraC#2.AssemblyInfoInputs.cache
+D:\source\repos\KienTraC#2\obj\Debug\net6.0\KienTraC#2.AssemblyInfo.cs
+D:\source\repos\KienTraC#2\obj\Debug\net6.0\KienTraC#2.csproj.CoreCompileInputs.cache
+D:\source\repos\KienTraC#2\obj\Debug\net6.0\KienTraC#2.dll
+D:\source\repos\KienTraC#2\obj\Debug\net6.0\refint\KienTraC#2.dll
+D:\source\repos\KienTraC#2\obj\Debug\net6.0\KienTraC#2.pdb
+D:\source\repos\KienTraC#2\obj\Debug\net6.0\KienTraC#2.genruntimeconfig.cache
+D:\source\repos\KienTraC#2\obj\Debug\net6.0\ref\KienTraC#2.dll
